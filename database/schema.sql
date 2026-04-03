@@ -2,6 +2,16 @@
 -- NovaMart E-Commerce PWA — Database Schema
 -- Author: Jaiross Steven
 -- Engine: InnoDB | Charset: utf8mb4
+
+
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: Apr 03, 2026 at 11:53 AM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.0.30
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS `novamart_db`
@@ -13,14 +23,7 @@ USE `novamart_db`;
 SET FOREIGN_KEY_CHECKS = 0;
 SET SQL_MODE = 'STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
 
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Apr 03, 2026 at 11:53 AM
--- Server version: 10.4.32-MariaDB
--- PHP Version: 8.0.30
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
