@@ -1,0 +1,24 @@
+{
+  "name": "NovaMart",
+  "short_name": "NovaMart",
+  "description": "Your Premium Shopping Destination — Electronics, Fashion, Books and more.",
+  "start_url": "/ecommerce-pwa/pages/shop.php",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0E1A",
+  "theme_color": "#6C63FF",
+  "lang": "en",
+  "scope": "/ecommerce-pwa/",
+  "icons": [
+    { "src": "/ecommerce-pwa/assets/images/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/ecommerce-pwa/assets/images/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "screenshots": [
+    { "src": "/ecommerce-pwa/assets/images/screenshot1.png", "sizes": "540x720", "type": "image/png", "form_factor": "narrow" }
+  ],
+  "shortcuts": [
+    { "name": "Shop", "url": "/ecommerce-pwa/pages/shop.php", "icons": [{ "src": "/ecommerce-pwa/assets/images/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Cart",  "url": "/ecommerce-pwa/pages/cart.php",  "icons": [{ "src": "/ecommerce-pwa/assets/images/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
