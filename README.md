@@ -72,8 +72,8 @@ This installs **mPDF** for automated PDF report generation.
 
 | Role | Email | Password |
 |------|-------|----------|
-| 👑 Admin | `admin@novamart.com` | `Admin@1234` |
-| 🧑 Customer | `demo@novamart.com` | `Demo@1234` |
+| 👑 Admin | `admin@novamart.com` | `Admin@123` |
+| 🧑 Customer | You need to create one yourself
 
 ---
 
@@ -167,4 +167,4 @@ The file will automatically download as **`Jaiross-Steven.pdf`**.
 
 ---
 
-*© 2026 Jaiross Steven — NovaMart E-Commerce PWA*
+*© 2026 Jyross Curtis — NovaMart E-Commerce PWA*
